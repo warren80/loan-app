@@ -1,0 +1,24 @@
+{
+  "name": "loan-tracker",
+  "version": "1.0.0",
+  "description": "Tracks loans for user",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:warren80/loan-app.git"
+  },
+  "keywords": [
+    "nodejs",
+    "compound",
+    "interest"
+  ],
+  "author": "Warren Voelkl",
+  "license": "UNLICENSED",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongo": "^0.1.0"
+  }
+}
